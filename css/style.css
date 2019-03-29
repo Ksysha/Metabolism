@@ -7408,6 +7408,11 @@ b, strong {
   /*height: 100vh;*/
 }
 
+.feature_39 {
+  background: #f1eae8 url(../i/Metabolism/02_BG.png) no-repeat 50% 100%;
+  background-size: cover;
+}
+
 .feature_40 {
   background: #f1eae8 url(../i/Metabolism/03_BG.png) no-repeat 50% 100%;
   background-size: cover;
